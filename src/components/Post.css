@@ -1,0 +1,69 @@
+.icon{
+    width:25px;
+    height:25px;
+    margin-left: -1rem;
+}
+.postTop{
+    display: flex;
+}
+.userIcon{
+    margin-top: 1rem;
+    margin-right:10px;
+}
+.displayPost{
+    width: 20rem;
+    min-height: 2rem;
+    height: max-content;
+    background-color: rgb(254, 253, 253);
+    border: none;
+    color: black;
+    border-radius: 4px;
+    margin:10px;
+    padding: 10px;
+    font-size: medium;
+}
+.postBottom{
+    display: flex;
+    justify-content: space-between;  
+    border-top: 1px solid grey; 
+    margin:10px;
+    padding: 0px 5px;
+}
+.reactions{
+
+    display: flex;
+}
+.postedOn{
+font-size: 10px;
+}
+.inputContainer {
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .postBox {
+    box-sizing: border-box;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    width:100%;
+    height:3rem;
+    background-color: rgb(253, 254, 254);
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin:15px 0px;
+  }
+  
+  .sendButton {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    height:1.5rem;
+    width: 1.5rem;
+    text-decoration: none;
+  }

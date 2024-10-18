@@ -1,0 +1,147 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "post": "hello",
+      "userDetails": {
+        "id": "2",
+        "email": "venkat@gmail.com",
+        "fullname": "Venkatesan Rangadass",
+        "mobile": "7639677127",
+        "password": "Venkat@1718"
+      },
+      "userName": "Venkatesan Rangadass"
+    },
+    {
+      "id": "2",
+      "post": "Hi bro",
+      "userDetails": {
+        "id": "1",
+        "email": "vishnu@gmail.com",
+        "fullname": "Vishnu Rangadass",
+        "mobile": "7639024081",
+        "password": "Vishnu@1412"
+      },
+      "userName": "Vishnu Rangadass"
+    },
+    {
+      "id": "3",
+      "post": "Hi both of you !",
+      "userDetails": {
+        "id": 4,
+        "email": "ajith@gmail.com",
+        "fullname": "Ajith",
+        "mobile": "9123456789",
+        "password": "Ajith@157"
+      },
+      "userName": "Ajith"
+    },
+    {
+      "id": "4",
+      "post": "hey vishnu",
+      "userDetails": {
+        "id": 4,
+        "email": "ajith@gmail.com",
+        "fullname": "Ajith",
+        "mobile": "9123456789",
+        "password": "Ajith@157"
+      },
+      "userName": "Ajith",
+      "postedDate": "2024-10-17"
+    },
+    {
+      "id": "5",
+      "post": "Hi Aji...How are you ?",
+      "userDetails": {
+        "id": "1",
+        "email": "vishnu@gmail.com",
+        "fullname": "Vishnu Rangadass",
+        "mobile": "7639024081",
+        "password": "Vishnu@1412"
+      },
+      "userName": "Vishnu Rangadass",
+      "postedDate": "2024-10-17"
+    },
+    {
+      "id": 6,
+      "post": "Almost the basic design is done !",
+      "userDetails": {
+        "id": "3",
+        "email": "aravindh@gmail.com",
+        "fullname": "Aravindh",
+        "mobile": "9876543210",
+        "password": "Aravindh@2302"
+      },
+      "userName": "Aravindh",
+      "postedDate": "2024-10-18"
+    },
+    {
+      "id": 7,
+      "post": "ithu epdi iruku?",
+      "userDetails": {
+        "id": "3",
+        "email": "aravindh@gmail.com",
+        "fullname": "Aravindh",
+        "mobile": "9876543210",
+        "password": "Aravindh@2302"
+      },
+      "userName": "Aravindh",
+      "postedDate": "18-10-2024"
+    },
+    {
+      "id": 8,
+      "post": "Nice to have :)",
+      "userDetails": {
+        "id": "1",
+        "email": "vishnu@gmail.com",
+        "fullname": "Vishnu Rangadass",
+        "mobile": "7639024081",
+        "password": "Vishnu@1412"
+      },
+      "userName": "Vishnu Rangadass",
+      "postedDate": "18-10-2024"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": [
+    {
+      "id": "1",
+      "email": "vishnu@gmail.com",
+      "fullname": "Vishnu Rangadass",
+      "mobile": "7639024081",
+      "password": "Vishnu@1412"
+    },
+    {
+      "id": "2",
+      "email": "venkat@gmail.com",
+      "fullname": "Venkatesan Rangadass",
+      "mobile": "7639677127",
+      "password": "Venkat@1718"
+    },
+    {
+      "id": "3",
+      "email": "aravindh@gmail.com",
+      "fullname": "Aravindh",
+      "mobile": "9876543210",
+      "password": "Aravindh@2302"
+    },
+    {
+      "id": "4",
+      "email": "ajith@gmail.com",
+      "fullname": "Ajith",
+      "mobile": "9123456789",
+      "password": "Ajith@157"
+    }
+  ]
+}
